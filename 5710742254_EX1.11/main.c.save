@@ -3,7 +3,7 @@
 
 int main()
 {
-    float a;
+    int a;
     printf("Enter integer number :");
     scanf("%f",&a);
     printf("Octal number : %o\n",a);
