@@ -1,9 +1,0 @@
-#include <stdio.h>
-#include <stdlib.h>
-
-int mainn()
-{
-    printf("Check Code\n");
-    printf("%-10d\n",10000);
-    return 0;
-}
