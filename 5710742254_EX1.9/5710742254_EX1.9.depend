@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1409655265 source:d:\program files\codeblockdoc\5710742254_ex1\5710742254_ex1.9\1.9.a.c
+	<stdio.h>
+
+1409565668 source:d:\program files\codeblockdoc\5710742254_ex1\5710742254_ex1.9\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1409565631 source:d:\program files\codeblockdoc\5710742254_ex1\5710742254_ex1.9\1.9.b.c
+	<stdio.h>
+
+1409566151 source:d:\program files\codeblockdoc\5710742254_ex1\5710742254_ex1.9\1.9.c.c
+	<stdio.h>
+	<stdlib.h>
+
