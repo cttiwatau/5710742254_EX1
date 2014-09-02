@@ -1,0 +1,13 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{   
+    int salary,tax;
+    printf("Input salary : \n");
+    scanf("%d",&salary);
+    tax=salary*0.1
+    printf("salary : %d",salary);
+    printf("tax    : %d",)
+    return 0;
+}
